@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and python
 - 💞️ I’m looking to collaborate on arduino projects 
 - 📫 How to reach me: email malcolmhove16@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: He
 - ⚡ Fun fact: I am constantly lloking for innovative ways to solve problems using the latest cutting edge technologies
 
 <!---
